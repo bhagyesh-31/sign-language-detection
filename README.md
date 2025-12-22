@@ -61,7 +61,7 @@ Copy code
 ```bash
 ### 1️⃣ Clone the Repository
 
-git clone [https://github.com/your-username/Sign-Language-Detection.git](https://github.com/bhagyesh-31/sign-language-detection)
+git clone [https://github.com/bhagyesh-31/sign-language-detection]
 cd Sign-Language-Detection
 2️⃣ Install Dependencies
 bash
