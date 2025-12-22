@@ -1,2 +1,82 @@
-# sign-language-detection
-A real-time sign language detection system using computer vision and deep learning with Python, OpenCV, MediaPipe, and TensorFlow.
+# 🤟 Sign Language Detection Using Hand Gestures
+
+A real-time Sign Language Detection system using **Computer Vision and Deep Learning**.  
+The project detects hand gestures via webcam and classifies them into predefined sign language alphabets.
+
+---
+
+## 📌 Features
+- Real-time hand detection using webcam
+- Image preprocessing with white background normalization
+- Deep Learning-based gesture classification
+- Supports multiple sign classes (A, B, C)
+- Simple and efficient Python implementation
+
+---
+
+## 🛠️ Tech Stack
+- **Python** 3.11.7  
+- **OpenCV** 4.10.0  
+- **TensorFlow** 2.12.1  
+- **MediaPipe** 0.10.18  
+- **CVZone**
+
+---
+
+## 📂 Project Structure
+Sign-Language-Detection/
+├── Data/
+├── Model/
+├── screenshots/
+├── data_collection.py
+├── testing.py
+├── requirements.txt
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 📸 Project Screenshots
+## 📸 Project Screenshots
+
+### 🔹 Data Collection
+![Data Collection A](Screenshots/Data Collection For A-Sign .png)
+![Data Collection B](Screenshots/Data Collection For B-Sign .png)
+![Data Collection C](Screenshots/Data Collection For C-Sign.png)
+
+### 🔹 Hand Detection Testing
+![Left Hand Detection](Screenshots/Left-Hand Detection Testing.png)
+![Right Hand Detection](Screenshots/Right-Hand Detection Testing.png)
+
+### 🔹 Successful Gesture Detection
+![Successful A Detection](Screenshots/Successful Detection of A-sign.png)
+![Successful B Detection](Screenshots/Successful Detection of B-sign.png)
+![Successful C Detection](Screenshots/Successful Detection of C-sign.png)
+
+---
+
+## 🚀 How to Run the Project
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/Sign-Language-Detection.git
+cd Sign-Language-Detection
+2️⃣ Install Dependencies
+bash
+Copy code
+pip install -r requirements.txt
+3️⃣ Collect Data
+bash
+Copy code
+python data_collection.py
+Press S to save images.
+
+4️⃣ Test the Model
+bash
+Copy code
+python testing.py
+
+
+> 🎓 Academic Mini Project – Computer Vision & Deep Learning
