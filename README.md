@@ -58,9 +58,9 @@ Copy code
 ---
 
 ## 🚀 How to Run the Project
-
-### 1️⃣ Clone the Repository
 ```bash
+### 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/Sign-Language-Detection.git
 cd Sign-Language-Detection
 2️⃣ Install Dependencies
