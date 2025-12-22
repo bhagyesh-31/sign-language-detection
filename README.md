@@ -41,19 +41,18 @@ Copy code
 ## 📸 Project Screenshots
 
 ### 🔹 Data Collection
-![A Sign Data Collection](Screenshots/data_collection_a.png)
-![B Sign Data Collection](Screenshots/data_collection_b.png)
-![C Sign Data Collection](Screenshots/data_collection_c.png)
+![A Sign Data Collection](Sign-Language-Detection/Screenshots/data_collection_a.png)
+![B Sign Data Collection](Sign-Language-Detection/Screenshots/data_collection_b.png)
+![C Sign Data Collection](Sign-Language-Detection/Screenshots/data_collection_c.png)
 
 ### 🔹 Hand Detection Testing
-![Left Hand Detection](Screenshots/left_hand_testing.png)
-![Right Hand Detection](Screenshots/right_hand_testing.png)
+![Left Hand Detection](Sign-Language-Detection/Screenshots/left_hand_testing.png)
+![Right Hand Detection](Sign-Language-Detection/Screenshots/right_hand_testing.png)
 
 ### 🔹 Successful Gesture Prediction
-![Prediction A](Screenshots/prediction_a.png)
-![Prediction B](Screenshots/prediction_b.png)
-![Prediction C](Screenshots/prediction_c.png)
-
+![Prediction A](Sign-Language-Detection/Screenshots/prediction_a.png)
+![Prediction B](Sign-Language-Detection/Screenshots/prediction_b.png)
+![Prediction C](Sign-Language-Detection/Screenshots/prediction_c.png)
 
 
 ---
