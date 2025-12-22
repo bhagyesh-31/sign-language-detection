@@ -39,21 +39,21 @@ Copy code
 ---
 
 ## 📸 Project Screenshots
-## 📸 Project Screenshots
 
 ### 🔹 Data Collection
-![Data Collection A](Screenshots/Data Collection For A-Sign .png)
-![Data Collection B](Screenshots/Data Collection For B-Sign .png)
-![Data Collection C](Screenshots/Data Collection For C-Sign.png)
+![A Sign Data Collection](Screenshots/data_collection_a.png)
+![B Sign Data Collection](Screenshots/data_collection_b.png)
+![C Sign Data Collection](Screenshots/data_collection_c.png)
 
 ### 🔹 Hand Detection Testing
-![Left Hand Detection](Screenshots/Left-Hand Detection Testing.png)
-![Right Hand Detection](Screenshots/Right-Hand Detection Testing.png)
+![Left Hand Detection](Screenshots/left_hand_testing.png)
+![Right Hand Detection](Screenshots/right_hand_testing.png)
 
-### 🔹 Successful Gesture Detection
-![Successful A Detection](Screenshots/Successful Detection of A-sign.png)
-![Successful B Detection](Screenshots/Successful Detection of B-sign.png)
-![Successful C Detection](Screenshots/Successful Detection of C-sign.png)
+### 🔹 Successful Gesture Prediction
+![Prediction A](Screenshots/prediction_a.png)
+![Prediction B](Screenshots/prediction_b.png)
+![Prediction C](Screenshots/prediction_c.png)
+
 
 ---
 
