@@ -9,7 +9,7 @@ The project detects hand gestures via webcam and classifies them into predefined
 - Real-time hand detection using webcam
 - Image preprocessing with white background normalization
 - Deep Learning-based gesture classification
-- Supports multiple sign classes (A, B, C)
+- Supports multiple sign classes (A to Z)
 - Simple and efficient Python implementation
 
 ---
