@@ -24,6 +24,7 @@ The project detects hand gestures via webcam and classifies them into predefined
 ---
 
 ## 📂 Project Structure
+```bash
 Sign-Language-Detection/
 ├── Data/
 ├── Model/
@@ -32,9 +33,7 @@ Sign-Language-Detection/
 ├── testing.py
 ├── requirements.txt
 └── README.md
-
-yaml
-Copy code
+```
 
 ---
 
